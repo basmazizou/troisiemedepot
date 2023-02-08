@@ -6,3 +6,4 @@
  test de merge sans le faste forward
  test de merge avec conflit(developper une fonctionnalité)
  test rebase (au niveau de b)
+commit a partir de vscode
