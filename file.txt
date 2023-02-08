@@ -1,4 +1,6 @@
  hello!
  deuxiéme ligne
  modification au niveau de la branche
- test de merge sans le 
+ test de merge sans le faste forward
+ test de merge avec conflit(developper une fonctionnalité)
+ 
